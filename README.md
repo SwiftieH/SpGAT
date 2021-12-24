@@ -2,7 +2,7 @@
 
 This is a TensorFlow implementation of Spectral Graph Attention Network with Fast Eigen-approximation (**SpGAT**).
 
-Heng Chang, Yu Rong, Tingyang Xu, Wenbing Huang, Somayeh Sojoudi, Junzhou Huang, Wenwu Zhu, [Spectral Graph Attention Network with Fast Eigen-approximation](https://arxiv.org/abs/2003.07450), CIKM 2021.
+Heng Chang, Yu Rong, Tingyang Xu, Wenbing Huang, Somayeh Sojoudi, Junzhou Huang, Wenwu Zhu, [Spectral Graph Attention Network with Fast Eigen-approximation](https://dl.acm.org/doi/abs/10.1145/3459637.3482187), CIKM 2021.
 
 <div align=center>
  <img src="Framework.png" alt="framework" align=center/>
